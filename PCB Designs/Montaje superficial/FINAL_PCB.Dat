@@ -1,0 +1,17 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~FINAL_PCB.PrjPcb|ReportField=ProjectFullPath~C:\Users\Public\Documents\Altium\Projects\FINAL_PCB\FINAL_PCB.PrjPcb|ReportField=Title~Bill of Materials For Project [FINAL_PCB.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~25|ReportField=ReportTime~10:26:41 p. m.|ReportField=ReportDate~31/01/2016|ReportField=ReportDateTime~31/01/2016 10:26:41 p. m.|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~31/01/2016|ReportField=CurrentTime~10:23:38 p. m.|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\Public\Documents\Altium\finalproy.SchDoc|ReportField=DocumentName~finalproy.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~31/01/2016|ReportField=Organization~|ReportField=ProjectName~FINAL_PCB.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~FINAL_PCB.PrjPcb|ReportField=DataSourceFullPath~C:\Users\Public\Documents\Altium\Projects\FINAL_PCB\FINAL_PCB.PrjPcb
+1|WE-Modular Jack 615012149421|WR-MJ_Modular Jack_Tab UP_6P6C|C1|615012149421|WE-Modular Jack 615012149421|1
+2|Cap Pol3|Polarized Capacitor (Surface Mount)|C1, C2, C3, C4, C6|C0805|Cap Pol3|5
+3|Tuxgraphics LCD display 16x2 characters reflective, without background light   Source: tuxgr_12x2_r2.pdf||DIS?|TUXGR_16X2_R2|TUXGR_16X2_R2|1
+4|PRG|Header, 2-Pin|P2|HDR1X2|Header 2|1
+5|I2C|Header, 4-Pin|P3|HDR1X4|Header 4|1
+6|UART|Header, 4-Pin|P4|HDR1X4|Header 4|1
+7|FT|Header, 2-Pin|P5|HDR1X2|Header 2|1
+8|PRG2|Header, 2-Pin|P6|HDR1X2|Header 2|1
+9|HC|Header, 4-Pin|P7|HDR1X4|Header 4|1
+10|LM|Header, 3-Pin|P8|HDR1X3|Header 3|1
+11|VIN|Header, 2-Pin|P9|HDR1X2|Header 2|1
+12|Res Varistor|Varistor (Voltage-Sensitive Resistor)|R1, R2, R3, R4, R5, R6|6-0805_N|Res Varistor|6
+13|434111025826|WS-TASV 6.0x3.8 mm SMD|S1|4341x10258xx|WS-TASV, 434111025826|1
+14|CY8C4245AXI-483||U1|TQFP80P1200X1200X160-44N|CY8C4245AXI-483|1
+15|P82B715_D_8||U2|D8|P82B715_D_8|1
+16|Volt Reg|Voltage Regulator|VR1|SOT89/X.8|Volt Reg|1
